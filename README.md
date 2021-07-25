@@ -1,3 +1,4 @@
+![1](https://user-images.githubusercontent.com/87891538/126891572-70cea664-15b6-4043-8dbe-76b3e82fc515.jpg)
 # DSB-SC-De-Modulation-in-Simulink-and-Amplitude-Modulation-and-Demodulation-in-Simulink
 A double-sideband, suppressed carrier (DSB-SC)AM signal obtained by multiplying the message signal m(t) with carrier signal c(t).
 
