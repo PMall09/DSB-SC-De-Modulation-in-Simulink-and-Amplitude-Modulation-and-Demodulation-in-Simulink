@@ -14,5 +14,5 @@ Message Signal -> (AM Modulator X Carrier Signal) -> AM Modulated Signal
 Amplitude De-Modulation in Simulink :
 Message Signal -> (AM De-Modulator X Carrier Signal) -> AM De-Modulated Signal
 Fm=10KHz, fc=100KHz, fc=100.0023KHz 
- ![a](https://user-images.githubusercontent.com/87891538/126891957-bde89b7e-5e23-411f-a949-4a051928c2c6.jpg)
+![a](https://user-images.githubusercontent.com/87891538/126891957-bde89b7e-5e23-411f-a949-4a051928c2c6.jpg)
 
